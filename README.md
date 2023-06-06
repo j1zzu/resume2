@@ -1,3 +1,2 @@
-# resume2
-## Результат
-[Повторение](https://j1zzu.github.io/resume2/)
+# CSS & HTML
+## Результат: [Повторение](https://j1zzu.github.io/resume2/)
